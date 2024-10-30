@@ -1,0 +1,94 @@
+{
+    "packages": [
+        {
+            "name": "lunar/payments-api-sdk",
+            "version": "1.0.1",
+            "version_normalized": "1.0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/lunar/payments-api-sdk.git",
+                "reference": "58cf2d1f8c75881c417f9c290595840b8e4e6c21"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lunar/payments-api-sdk/zipball/58cf2d1f8c75881c417f9c290595840b8e4e6c21",
+                "reference": "58cf2d1f8c75881c417f9c290595840b8e4e6c21",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "php": ">=7.1"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9.6.3"
+            },
+            "time": "2024-02-16T09:51:43+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Lunar\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "PHP SDK to communicate with the Lunar HTTP API",
+            "support": {
+                "issues": "https://github.com/lunar/payments-api-sdk/issues",
+                "source": "https://github.com/lunar/payments-api-sdk/tree/v1.0.1"
+            },
+            "install-path": "../lunar/payments-api-sdk"
+        },
+        {
+            "name": "paylike/php-api",
+            "version": "1.0.8",
+            "version_normalized": "1.0.8.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/paylike/php-api.git",
+                "reference": "bcdf66a17ff3c595952d02de250264e3d2cb307d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/paylike/php-api/zipball/bcdf66a17ff3c595952d02de250264e3d2cb307d",
+                "reference": "bcdf66a17ff3c595952d02de250264e3d2cb307d",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "php": ">=5.3.3"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^4.8"
+            },
+            "time": "2020-09-08T09:05:27+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Paylike\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ionut Calara",
+                    "email": "ionut.calara@gmail.com"
+                }
+            ],
+            "description": "PHP SDK to communicate with the Paylike HTTP API",
+            "support": {
+                "issues": "https://github.com/paylike/php-api/issues",
+                "source": "https://github.com/paylike/php-api/tree/master"
+            },
+            "install-path": "../paylike/php-api"
+        }
+    ],
+    "dev": false,
+    "dev-package-names": []
+}

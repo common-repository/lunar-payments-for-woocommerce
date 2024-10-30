@@ -1,0 +1,732 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-06-01 11:37+0000\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/class-wc-lunar-payment-token.php:105
+#, php-format
+msgid "%s ending in %s"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Accept payments with Visa and MasterCard instantly. Lunar Payments is the "
+"modern full-stack payment platform combining banking and payments into one."
+msgstr ""
+
+#: includes/settings-lunar.php:80 includes/settings-lunar-hosted.php:69
+msgid "Accepted Cards"
+msgstr ""
+
+#: includes/settings-lunar.php:73
+msgid "Allow users to reuse their card via Lunar"
+msgstr ""
+
+#: includes/settings-lunar.php:37
+#: includes/settings-lunar-hosted-mobilepay.php:37
+#: includes/settings-lunar-mobilepay.php:30
+#: includes/settings-lunar-hosted.php:37
+msgid "App key"
+msgstr ""
+
+#: includes/class-wc-gateway-lunar-mobilepay.php:616
+msgid "Authorization ID: "
+msgstr ""
+
+#: includes/traits/LunarGatewayTrait.php:231
+#: includes/traits/LunarGatewayHostedTrait.php:259
+msgid "Authorized amount: "
+msgstr ""
+
+#: includes/settings-lunar.php:61
+#: includes/settings-lunar-hosted-mobilepay.php:73
+#: includes/settings-lunar-mobilepay.php:68
+#: includes/settings-lunar-hosted.php:58
+msgid "Capture mode"
+msgstr ""
+
+#: includes/traits/LunarGatewayTrait.php:232
+#: includes/traits/LunarGatewayHostedTrait.php:260
+msgid "Captured amount: "
+msgstr ""
+
+#: includes/settings-lunar-hosted.php:19
+msgid "Card"
+msgstr ""
+
+#: includes/settings-lunar.php:19
+msgid "Cards"
+msgstr ""
+
+#: includes/traits/LunarGatewayTrait.php:233
+#: includes/traits/LunarGatewayHostedTrait.php:261
+msgid "Charge authorized at: "
+msgstr ""
+
+#: includes/settings-lunar.php:51 includes/settings-lunar-mobilepay.php:58
+msgid "Checkout mode"
+msgstr ""
+
+#: includes/class-wc-gateway-lunar.php:144
+msgid "Continue to payment"
+msgstr ""
+
+#: includes/settings-lunar.php:65
+#: includes/settings-lunar-hosted-mobilepay.php:77
+#: includes/settings-lunar-mobilepay.php:72
+#: includes/settings-lunar-hosted.php:62
+msgid "Delayed"
+msgstr ""
+
+#: includes/settings-lunar-hosted-mobilepay.php:60
+#: includes/settings-lunar-mobilepay.php:46
+msgid "Email onlinepayments@lunar.app to get it"
+msgstr ""
+
+#: includes/settings-lunar.php:10
+#: includes/settings-lunar-hosted-mobilepay.php:10
+#: includes/settings-lunar-hosted.php:10
+msgid "Enable Lunar"
+msgstr ""
+
+#: includes/settings-lunar-mobilepay.php:10
+msgid "Enable Lunar Mobilepay"
+msgstr ""
+
+#: includes/settings-lunar.php:9 includes/settings-lunar-hosted-mobilepay.php:9
+#: includes/settings-lunar-mobilepay.php:9 includes/settings-lunar-hosted.php:9
+msgid "Enable/Disable"
+msgstr ""
+
+#: lunar-payments-for-woocommerce.php:631
+#: lunar-payments-for-woocommerce.php:734
+#: lunar-payments-for-woocommerce.php:764
+#: includes/traits/LunarHostedGatewayTrait.php:187
+#: includes/traits/LunarHostedGatewayTrait.php:349
+#: includes/traits/LunarHostedGatewayTrait.php:368
+msgid "Error :"
+msgstr ""
+
+#: lunar-payments-for-woocommerce.php:806
+#: includes/traits/LunarHostedGatewayTrait.php:250
+#: includes/traits/LunarHostedGatewayTrait.php:313
+#: includes/traits/LunarHostedGatewayTrait.php:327
+#: includes/traits/LunarGatewayTrait.php:130
+#: includes/traits/LunarGatewayTrait.php:270
+#: includes/traits/LunarGatewayTrait.php:284
+#: includes/traits/LunarGatewayTrait.php:322
+#: includes/traits/LunarGatewayHostedTrait.php:158
+#: includes/traits/LunarGatewayHostedTrait.php:298
+#: includes/traits/LunarGatewayHostedTrait.php:312
+#: includes/traits/LunarGatewayHostedTrait.php:350
+msgid "Error: "
+msgstr ""
+
+#: includes/class-wc-gateway-lunar-mobilepay.php:374
+msgid "Finalize payment"
+msgstr ""
+
+#: includes/settings-lunar.php:39 includes/settings-lunar.php:46
+#: includes/settings-lunar-hosted-mobilepay.php:39
+#: includes/settings-lunar-hosted-mobilepay.php:46
+#: includes/settings-lunar-mobilepay.php:32
+#: includes/settings-lunar-mobilepay.php:39
+#: includes/settings-lunar-hosted.php:39 includes/settings-lunar-hosted.php:46
+msgid "Get it from your Lunar dashboard"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://lunar.app/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/lunar-payments-for-woocommerce/"
+msgstr ""
+
+#: includes/settings-lunar.php:67
+#: includes/settings-lunar-hosted-mobilepay.php:79
+#: includes/settings-lunar-mobilepay.php:74
+#: includes/settings-lunar-hosted.php:64
+msgid ""
+"If you deliver your product instantly (e.g. a digital product), choose "
+"Instant mode. If not, use Delayed. In Delayed mode, you can capture the "
+"order when moving from on hold to complete or from on hold to processing."
+msgstr ""
+
+#: includes/settings-lunar.php:64
+#: includes/settings-lunar-hosted-mobilepay.php:76
+#: includes/settings-lunar-mobilepay.php:71
+#: includes/settings-lunar-hosted.php:61
+msgid "Instant"
+msgstr ""
+
+#: includes/class-wc-gateway-lunar.php:106
+#: includes/class-wc-gateway-lunar-hosted.php:79
+msgid ""
+"Let your customers pay with debit and credit cards, including Visa, "
+"Mastercard, Maestro, Visa Electron."
+msgstr ""
+
+#: includes/class-wc-gateway-lunar-mobilepay.php:58
+#: includes/class-wc-gateway-lunar-hosted-mobilepay.php:79
+msgid ""
+"Let your customers pay with MobilePay. Send an email to onlinepayments@lunar."
+"app to get started."
+msgstr ""
+
+#: includes/settings-lunar-hosted-mobilepay.php:51
+#: includes/settings-lunar-mobilepay.php:51
+#: includes/settings-lunar-hosted.php:51
+msgid "Logo URL"
+msgstr ""
+
+#. Author of the plugin
+#: includes/class-wc-gateway-lunar.php:105
+msgid "Lunar"
+msgstr ""
+
+#: includes/traits/LunarHostedGatewayTrait.php:374
+#: includes/traits/LunarGatewayTrait.php:198
+#: includes/traits/LunarGatewayHostedTrait.php:226
+msgid "Lunar authorization complete."
+msgstr ""
+
+#: lunar-payments-for-woocommerce.php:614
+#: includes/traits/LunarHostedGatewayTrait.php:171
+#: includes/traits/LunarGatewayTrait.php:229
+#: includes/traits/LunarGatewayHostedTrait.php:257
+msgid "Lunar capture complete."
+msgstr ""
+
+#: includes/class-wc-gateway-lunar-hosted.php:78
+msgid "Lunar Cards"
+msgstr ""
+
+#: includes/class-wc-gateway-lunar-mobilepay.php:57
+msgid "Lunar MobilePay"
+msgstr ""
+
+#: includes/class-wc-gateway-lunar-hosted-mobilepay.php:78
+msgid "Lunar Mobilepay"
+msgstr ""
+
+#. %1$s is replaced with settings link
+#: lunar-payments-for-woocommerce.php:293
+#, php-format
+msgid ""
+"Lunar MobilePay will not work until you <a href=\"%s\">configure your Lunar "
+"api keys and set the logo</a>."
+msgstr ""
+
+#. Name of the plugin
+msgid "Lunar Online Payments for WooCommerce"
+msgstr ""
+
+#: lunar-payments-for-woocommerce.php:718
+#: includes/traits/LunarHostedGatewayTrait.php:338
+msgid "Lunar refund complete."
+msgstr ""
+
+#. %1$s is replaced with the error message
+#: includes/class-wc-gateway-lunar-addons.php:62
+#, php-format
+msgid "Lunar Transaction Failed (%s)"
+msgstr ""
+
+#: includes/traits/LunarGatewayTrait.php:310
+#: includes/traits/LunarGatewayHostedTrait.php:338
+msgid "Lunar transaction refunded."
+msgstr ""
+
+#: lunar-payments-for-woocommerce.php:748
+#: includes/traits/LunarHostedGatewayTrait.php:357
+msgid "Lunar void complete."
+msgstr ""
+
+#. %1$s is replaced with settings link
+#: lunar-payments-for-woocommerce.php:285
+#, php-format
+msgid ""
+"Lunar will not work until you <a href=\"%s\">configure your Lunar api "
+"keys</a>."
+msgstr ""
+
+#. %1$s is replaced with the admin url
+#: includes/class-wc-gateway-lunar.php:661
+#: includes/traits/LunarHostedGatewayTrait.php:73
+#, php-format
+msgid ""
+"Lunar: <a href=\"%s\">Force SSL</a> is disabled; your checkout page may not "
+"be secure! Unless you have a valid SSL certificate and force the checkout "
+"pages to be secure, only test mode will be allowed."
+msgstr ""
+
+#: includes/class-wc-gateway-lunar-addons.php:143
+msgid "Merchant ID not found"
+msgstr ""
+
+#: includes/settings-lunar-mobilepay.php:19
+msgid "MobilePay"
+msgstr ""
+
+#: includes/settings-lunar-hosted-mobilepay.php:19
+msgid "Mobilepay"
+msgstr ""
+
+#: includes/settings-lunar-hosted-mobilepay.php:58
+#: includes/settings-lunar-mobilepay.php:44
+msgid "MobilePay config id"
+msgstr ""
+
+#: includes/settings-lunar-hosted-mobilepay.php:66
+msgid "Mobilepay Logo URL"
+msgstr ""
+
+#: includes/class-wc-gateway-lunar-addons.php:89
+msgid "Neither Transaction ID nor Card ID was found"
+msgstr ""
+
+#: lunar-payments-for-woocommerce.php:800
+msgid "Network issues! Check your connection and try again."
+msgstr ""
+
+#: includes/class-wc-gateway-lunar.php:1013
+msgid "No valid merchant id was found"
+msgstr ""
+
+#: includes/class-wc-gateway-lunar-mobilepay.php:376 templates/receipt.php:6
+msgid "Pay Now"
+msgstr ""
+
+#: lunar-payments-for-woocommerce.php:616
+#: includes/traits/LunarHostedGatewayTrait.php:173
+#: includes/traits/LunarHostedGatewayTrait.php:376
+#: includes/traits/LunarGatewayTrait.php:200
+#: includes/traits/LunarGatewayHostedTrait.php:228
+msgid "Payment Amount: "
+msgstr ""
+
+#: includes/settings-lunar.php:55 includes/settings-lunar-mobilepay.php:62
+msgid "Payment before order created"
+msgstr ""
+
+#: includes/settings-lunar.php:23
+#: includes/settings-lunar-hosted-mobilepay.php:30
+#: includes/settings-lunar-mobilepay.php:23
+#: includes/settings-lunar-hosted.php:30
+msgid "Payment method description"
+msgstr ""
+
+#: includes/settings-lunar.php:16
+#: includes/settings-lunar-hosted-mobilepay.php:16
+#: includes/settings-lunar-mobilepay.php:16
+#: includes/settings-lunar-hosted.php:16
+msgid "Payment method title"
+msgstr ""
+
+#: includes/settings-lunar.php:30
+msgid "Payment popup title"
+msgstr ""
+
+#: includes/traits/LunarHostedGatewayTrait.php:573
+msgid "Polling for order did not succeed:"
+msgstr ""
+
+#: includes/traits/LunarHostedGatewayTrait.php:580
+msgid "Polling for order worked, proceeding"
+msgstr ""
+
+#: lunar-payments-for-woocommerce.php:177
+msgid "Polling payment."
+msgstr ""
+
+#: includes/class-wc-gateway-lunar-mobilepay.php:615
+msgid "Polling returned a transaction id"
+msgstr ""
+
+#: includes/settings-lunar.php:44
+#: includes/settings-lunar-hosted-mobilepay.php:44
+#: includes/settings-lunar-mobilepay.php:37
+#: includes/settings-lunar-hosted.php:44
+msgid "Public key"
+msgstr ""
+
+#: includes/settings-lunar.php:54 includes/settings-lunar-mobilepay.php:61
+msgid "Redirect to payment page after order created"
+msgstr ""
+
+#: lunar-payments-for-woocommerce.php:720
+#: includes/traits/LunarGatewayTrait.php:312
+#: includes/traits/LunarGatewayHostedTrait.php:340
+msgid "Refund amount: "
+msgstr ""
+
+#: includes/traits/LunarHostedGatewayTrait.php:340
+msgid "Refunded Amount: "
+msgstr ""
+
+#: includes/class-wc-gateway-lunar.php:646
+msgid "Save payment information to my account for future purchases."
+msgstr ""
+
+#: includes/settings-lunar.php:26
+#: includes/settings-lunar-hosted-mobilepay.php:33
+#: includes/settings-lunar-hosted.php:33
+msgid ""
+"Secure payment with credit card via &copy; <a href=\"https://lunar.app\" "
+"target=\"_blank\">Lunar</a>"
+msgstr ""
+
+#: includes/settings-lunar-mobilepay.php:26
+msgid ""
+"Secure payment with MobilePay via &copy; <a href=\"https://lunar.app\" "
+"target=\"_blank\">Lunar</a>"
+msgstr ""
+
+#: includes/settings-lunar.php:84 includes/settings-lunar-hosted.php:73
+msgid "Select the card types to accept."
+msgstr ""
+
+#: includes/class-wc-gateway-lunar-mobilepay.php:606
+msgid "Server returned an error durring polling"
+msgstr ""
+
+#: lunar-payments-for-woocommerce.php:394
+msgid "Settings"
+msgstr ""
+
+#: includes/settings-lunar.php:72
+msgid "Store Payment Method"
+msgstr ""
+
+#: includes/settings-lunar-hosted-mobilepay.php:23
+#: includes/settings-lunar-hosted.php:23
+msgid "Store title"
+msgstr ""
+
+#. %s is replaced with the documentation link
+#: includes/class-wc-gateway-lunar.php:147
+#, php-format
+msgid ""
+"TEST MODE ENABLED. In test mode, you can use the card number 4100 0000 0000 "
+"0000 with any CVC and a valid expiration date. \"<a href=\"%s\">See "
+"Documentation</a>\"."
+msgstr ""
+
+#: templates/receipt-mobilepay.php:2
+msgid "Thank you for your order, payment is now finalizing."
+msgstr ""
+
+#: templates/receipt.php:2
+msgid ""
+"Thank you for your order, please click below to pay and complete your order."
+msgstr ""
+
+#: lunar-payments-for-woocommerce.php:791
+msgid ""
+"The action is not allowed! You do not have the rights to perform the action. "
+"Reach out to support@lunar.app to get help."
+msgstr ""
+
+#: includes/class-wc-gateway-lunar-mobilepay.php:513
+msgid "The App key doesn't seem to be valid"
+msgstr ""
+
+#: includes/class-wc-gateway-lunar.php:214
+#: includes/class-wc-gateway-lunar.php:988
+#: includes/class-wc-gateway-lunar.php:996
+msgid "The app key doesn't seem to be valid"
+msgstr ""
+
+#: includes/class-wc-gateway-lunar-mobilepay.php:532
+msgid "The App key is not valid."
+msgstr ""
+
+#: includes/class-wc-gateway-lunar-addons.php:126
+msgid "The card could not be fetched."
+msgstr ""
+
+#: includes/class-wc-gateway-lunar.php:285
+msgid "The live app key doesn't seem to be valid"
+msgstr ""
+
+#: includes/class-wc-gateway-lunar.php:304
+msgid "The live app key is not valid."
+msgstr ""
+
+#: includes/class-wc-gateway-lunar.php:329
+msgid "The live public key doesn't seem to be valid"
+msgstr ""
+
+#: includes/traits/LunarHostedGatewayTrait.php:516
+msgid "The logo is required"
+msgstr ""
+
+#: includes/traits/LunarHostedGatewayTrait.php:521
+msgid "The logo url is not valid"
+msgstr ""
+
+#: includes/class-wc-gateway-lunar.php:188
+msgid ""
+"The Lunar account used is not allowed to capture. Instant mode is not "
+"available."
+msgstr ""
+
+#: includes/class-wc-gateway-lunar.php:1069
+msgid ""
+"The Lunar account used is not allowed to save cards. Storing the payment "
+"method is not available."
+msgstr ""
+
+#: includes/class-wc-gateway-lunar.php:960
+#: includes/class-wc-gateway-lunar.php:1033
+msgid "The merchant couldn't be found"
+msgstr ""
+
+#: includes/class-wc-gateway-lunar.php:969
+msgid "The merchant is not allowed to capture"
+msgstr ""
+
+#: includes/class-wc-gateway-lunar.php:1042
+msgid "The merchant is not allowed to save cards"
+msgstr ""
+
+#: includes/class-wc-gateway-lunar-mobilepay.php:588
+#: includes/class-wc-gateway-lunar-hosted-mobilepay.php:246
+msgid ""
+"The Mobile Pay config id key doesn't seem to be valid. It should not have "
+"more than 32 characters. Current count:"
+msgstr ""
+
+#: includes/class-wc-gateway-lunar-hosted-mobilepay.php:239
+msgid "The mobilePay configuration id is required"
+msgstr ""
+
+#: includes/class-wc-gateway-lunar-hosted-mobilepay.php:210
+msgid "The mobilePay logo is required"
+msgstr ""
+
+#: includes/class-wc-gateway-lunar-hosted-mobilepay.php:215
+msgid "The mobilePay url is not valid"
+msgstr ""
+
+#: lunar-payments-for-woocommerce.php:794
+msgid ""
+"The operation is not properly authorized! Check the credentials set in "
+"settings for Lunar."
+msgstr ""
+
+#: lunar-payments-for-woocommerce.php:797
+msgid ""
+"The operation leads to a conflict! The same transaction is being requested "
+"for modification at the same time. Try again later."
+msgstr ""
+
+#: includes/class-wc-gateway-lunar-mobilepay.php:561
+msgid "The Public key doesn't seem to be valid"
+msgstr ""
+
+#: lunar-payments-for-woocommerce.php:788
+msgid ""
+"The request is not valid! Check if there is any validation bellow this "
+"message and adjust if possible, if not, and the problem persists, contact "
+"the developer."
+msgstr ""
+
+#: includes/traits/LunarHostedGatewayTrait.php:531
+#: includes/traits/LunarHostedGatewayTrait.php:541
+msgid "The secret key is required"
+msgstr ""
+
+#: includes/class-wc-gateway-lunar.php:232
+msgid "The test app key is not valid."
+msgstr ""
+
+#: includes/class-wc-gateway-lunar.php:258
+msgid "The test public key doesn't seem to be valid"
+msgstr ""
+
+#: includes/settings-lunar.php:32
+msgid ""
+"The text shown in the popup where the customer inserts the card details."
+msgstr ""
+
+#: includes/settings-lunar-hosted-mobilepay.php:25
+#: includes/settings-lunar-hosted.php:25
+msgid "The text shown on the payment page where the customer pays."
+msgstr ""
+
+#: includes/class-wc-gateway-lunar-addons.php:136
+msgid "The transaction could not be fetched."
+msgstr ""
+
+#: includes/traits/LunarGatewayTrait.php:21
+#: includes/traits/LunarGatewayHostedTrait.php:56
+msgid ""
+"The transaction id is missing, it seems that the authorization failed or the "
+"reference was not sent. Please try the payment again. The previous payment "
+"will not be captured."
+msgstr ""
+
+#: lunar-payments-for-woocommerce.php:803
+msgid ""
+"There has been a server issue! If this problem persists contact the "
+"developer."
+msgstr ""
+
+#: includes/class-wc-gateway-lunar.php:1092
+msgid "There was a problem adding the payment method."
+msgstr ""
+
+#: includes/class-wc-gateway-lunar.php:477
+msgid "There was a problem creating the transaction!."
+msgstr ""
+
+#: includes/settings-lunar.php:25
+#: includes/settings-lunar-hosted-mobilepay.php:32
+#: includes/settings-lunar-mobilepay.php:25
+#: includes/settings-lunar-hosted.php:32
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: includes/settings-lunar.php:18
+#: includes/settings-lunar-hosted-mobilepay.php:18
+#: includes/settings-lunar-mobilepay.php:18
+#: includes/settings-lunar-hosted.php:18
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/class-wc-gateway-lunar.php:1060
+msgid "Tokenization is only compatible with the before order payment mode."
+msgstr ""
+
+#: lunar-payments-for-woocommerce.php:617
+#: lunar-payments-for-woocommerce.php:721
+#: lunar-payments-for-woocommerce.php:751
+#: includes/traits/LunarGatewayTrait.php:201
+#: includes/traits/LunarGatewayTrait.php:313
+#: includes/traits/LunarGatewayHostedTrait.php:229
+#: includes/traits/LunarGatewayHostedTrait.php:341
+msgid "Transaction authorized at: "
+msgstr ""
+
+#: lunar-payments-for-woocommerce.php:615
+#: lunar-payments-for-woocommerce.php:719
+#: lunar-payments-for-woocommerce.php:749
+#: includes/traits/LunarHostedGatewayTrait.php:172
+#: includes/traits/LunarHostedGatewayTrait.php:339
+#: includes/traits/LunarHostedGatewayTrait.php:358
+#: includes/traits/LunarHostedGatewayTrait.php:375
+#: includes/traits/LunarGatewayTrait.php:199
+#: includes/traits/LunarGatewayTrait.php:230
+#: includes/traits/LunarGatewayTrait.php:311
+#: includes/traits/LunarGatewayHostedTrait.php:227
+#: includes/traits/LunarGatewayHostedTrait.php:258
+#: includes/traits/LunarGatewayHostedTrait.php:339
+msgid "Transaction ID: "
+msgstr ""
+
+#: lunar-payments-for-woocommerce.php:785
+msgid ""
+"Transaction not found! Check the transaction key used for the operation."
+msgstr ""
+
+#: lunar-payments-for-woocommerce.php:630
+#: includes/traits/LunarHostedGatewayTrait.php:186
+#: includes/traits/LunarGatewayTrait.php:343
+#: includes/traits/LunarGatewayHostedTrait.php:371
+msgid "Unable to capture transaction!"
+msgstr ""
+
+#: lunar-payments-for-woocommerce.php:733
+#: includes/traits/LunarHostedGatewayTrait.php:348
+#: includes/traits/LunarGatewayTrait.php:321
+#: includes/traits/LunarGatewayHostedTrait.php:349
+msgid "Unable to refund transaction!"
+msgstr ""
+
+#: includes/traits/LunarHostedGatewayTrait.php:135
+#: includes/traits/LunarGatewayTrait.php:175
+#: includes/traits/LunarGatewayHostedTrait.php:203
+msgid "Unable to verify transaction!"
+msgstr ""
+
+#: lunar-payments-for-woocommerce.php:763
+#: includes/traits/LunarHostedGatewayTrait.php:367
+msgid "Unable to void transaction!"
+msgstr ""
+
+#: includes/settings-lunar-hosted-mobilepay.php:53
+#: includes/settings-lunar-mobilepay.php:53
+#: includes/settings-lunar-hosted.php:53
+msgid ""
+"URL must start with \"https\", the image must be in PNG or JPG format, and "
+"250x250 px"
+msgstr ""
+
+#: includes/settings-lunar-hosted-mobilepay.php:68
+msgid ""
+"URL must start with \"https\", the image must be in PNG or JPG format, and "
+"250x250 px. If not set, the previous logo field will be used"
+msgstr ""
+
+#: includes/settings-lunar.php:94
+msgid "Use Beta"
+msgstr ""
+
+#: includes/settings-lunar.php:95
+msgid "Use the Beta SDK(only use if instructed)"
+msgstr ""
+
+#. %1$s is replaced with card type, %2$s is replaced with last4 digits and %3$s is replaced with the card id
+#: includes/class-wc-gateway-lunar-addons.php:194
+#, php-format
+msgid "Via %s card ending in %s (%s)"
+msgstr ""
+
+#: includes/traits/LunarHostedGatewayTrait.php:359
+msgid "Voided Amount: "
+msgstr ""
+
+#: lunar-payments-for-woocommerce.php:750
+msgid "Voided amount: "
+msgstr ""
+
+#: includes/settings-lunar.php:97
+msgid "When this is checked the beta version of the sdk is being used"
+msgstr ""
+
+#: includes/settings-lunar.php:75
+msgid ""
+"When this is checked users are allowed to save their payment to be used as a "
+"source for future payments without the need to go trough the payment process "
+"again"
+msgstr ""
+
+#: lunar-payments-for-woocommerce.php:380
+msgid "WooCommerce Lunar - cURL is not installed."
+msgstr ""
+
+#. %1$s is replaced with the php version %2$s is replaced with the current php version
+#: lunar-payments-for-woocommerce.php:366
+#, php-format
+msgid ""
+"WooCommerce Lunar - The minimum PHP version required for this plugin is %1$s."
+" You are running %2$s."
+msgstr ""
+
+#. %1$s is replaced with the woocommerce version %2$s is replaced with the current woocommerce version
+#: lunar-payments-for-woocommerce.php:375
+#, php-format
+msgid ""
+"WooCommerce Lunar - The minimum WooCommerce version required for this plugin "
+"is %1$s. You are running %2$s."
+msgstr ""
+
+#: lunar-payments-for-woocommerce.php:371
+msgid "WooCommerce Lunar requires WooCommerce to be activated to work."
+msgstr ""

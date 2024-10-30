@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'name' => 'lunar/plugin-woocommerce',
+        'pretty_version' => '1.8.7',
+        'version' => '1.8.7.0',
+        'reference' => NULL,
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => false,
+    ),
+    'versions' => array(
+        'lunar/payments-api-sdk' => array(
+            'pretty_version' => '1.0.1',
+            'version' => '1.0.1.0',
+            'reference' => '58cf2d1f8c75881c417f9c290595840b8e4e6c21',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../lunar/payments-api-sdk',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'lunar/plugin-woocommerce' => array(
+            'pretty_version' => '1.8.7',
+            'version' => '1.8.7.0',
+            'reference' => NULL,
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'paylike/php-api' => array(
+            'pretty_version' => '1.0.8',
+            'version' => '1.0.8.0',
+            'reference' => 'bcdf66a17ff3c595952d02de250264e3d2cb307d',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../paylike/php-api',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+    ),
+);
